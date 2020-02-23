@@ -1,8 +1,8 @@
 # DDOS-Trojan 
 DDOS TROJAN
 
-Trojan By Frozen Flames!!
+Trojan By DarkMennA !!
 Jangan Di Salah Gunakan Ya Bambank!!
 Recode Baku Hantam!!
 
-Jalan Kan Menggunakan Python3
+JalanKan Menggunakan Python3
