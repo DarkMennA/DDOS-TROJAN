@@ -83,16 +83,20 @@ def usage():
         WhatsApp : 085275097993 "
      <<------------------------------------------------------->>
 
-
-       _________  _____      ____    ____________ _ ___
-      |    _____| |  __ \   / __ \   \___ / ____| \ |  |
-      |   |___    | |__) |  | | | |     / /| |__  | \| |
-      |    ___|   | _ _  /  | | | |    / / | __|  | . `|
-      |   |       | | \ \   | |_| |   / /__| |____| |\ |
-      |__ |       |_|  \_\   \____/  /_____|______|_| \|
+  ____             _    __  __                     _
+  |  _ \  __ _ _ __| | _|  \/  | ___ _ __  _ __    / \
+  | | | |/ _` | '__| |/ / |\/| |/ _ \ '_ \| '_ \  / _ \
+  | |_| | (_| | |  |   <| |  | |  __/ | | | | | |/ ___ \
+  |____/ \__,_|_|  |_|\_\_|  |_|\___|_| |_|_| |_/_/   \_\
 
 
-    Kali Ini Frozen Flames Buat Tools Trojan Yak Gays:)
+  
+  
+
+
+
+
+    Kali Ini DarkMennA Buat Tools Trojan Yak Gays:)
     Gunakan Tools Ini Dengan Bijak.. Dan Jangan Di Salah Gunakan:)
     Jika Kalian Belum Tau Cara Guna Nya.. Bakal Saya Kasih Contoh Di Bawah!!
 
