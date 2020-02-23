@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ Trojan Dos Script v.1
-# by FROZEN FLAMES
+# by DarkMennA
 # only for legal purpose
 
 
@@ -75,7 +75,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m  	FROZEN FLAMES Trojan DDOS
+	print (''' \033[92m  	DarkMennA Trojan DDOS
 
     <<------------------------------------------------------>>
         Athor: DarkMennA"
