@@ -78,23 +78,24 @@ def usage():
 	print (''' \033[92m  	FROZEN FLAMES Trojan DDOS
 
     <<------------------------------------------------------>>
-        Athor: Frozen Flames"
+        Athor: DarkMennA"
         Tim White Hat IND"
-        WhatsApp : 085275097993 "
+        WhatsApp : +85264869680 "
      <<------------------------------------------------------->>
 
   ____             _    __  __                     _
+
   |  _ \  __ _ _ __| | _|  \/  | ___ _ __  _ __    / \
+
   | | | |/ _` | '__| |/ / |\/| |/ _ \ '_ \| '_ \  / _ \
+
   | |_| | (_| | |  |   <| |  | |  __/ | | | | | |/ ___ \
+
   |____/ \__,_|_|  |_|\_\_|  |_|\___|_| |_|_| |_/_/   \_\
 
 
   
   
-
-
-
 
     Kali Ini DarkMennA Buat Tools Trojan Yak Gays:)
     Gunakan Tools Ini Dengan Bijak.. Dan Jangan Di Salah Gunakan:)
